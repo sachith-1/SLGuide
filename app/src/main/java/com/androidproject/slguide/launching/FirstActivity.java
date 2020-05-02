@@ -57,7 +57,7 @@ public class FirstActivity extends AppCompatActivity {
 
     private void touristloginopen(){
         //finish();
-        startActivity(new Intent(FirstActivity.this, MainActivity.class));
+        startActivity(new Intent(FirstActivity.this, TouristLoginActivity.class));
     }
 
     private void guideloginopen(){

@@ -9,7 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".launching.GuideLoginActivity"></activity>
+        <activity android:name=".launching.TouristHomeActivity"></activity>
+        <activity android:name=".launching.TouristCompleteProfileActivity" />
+        <activity android:name=".launching.GuideHomeActivity" />
+        <activity android:name=".launching.GuideCompleteProfileActivity" />
+        <activity android:name=".launching.ForgotPasswordActivity" />
+        <activity android:name=".launching.GuideSigninActivity" />
+        <activity android:name=".launching.TouristSigninActivity" />
+        <activity android:name=".launching.GuideLoginActivity" />
         <activity android:name=".launching.TouristLoginActivity" />
         <activity android:name=".launching.FirstActivity" />
         <activity android:name=".launching.SplashScreenActivity">
