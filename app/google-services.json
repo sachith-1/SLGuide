@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "953952687716",
+    "firebase_url": "https://slguide-8aa10.firebaseio.com",
+    "project_id": "slguide-8aa10",
+    "storage_bucket": "slguide-8aa10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953952687716:android:c951e017a26b55d1bb3171",
+        "android_client_info": {
+          "package_name": "com.androidproject.slguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953952687716-l35drku1cegdon4t4gn7dv8cj0aa388l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidproject.slguide",
+            "certificate_hash": "753a5d2c79f505c7a8eb95b4ea9587a13da4cbf6"
+          }
+        },
+        {
+          "client_id": "953952687716-ajbmmvht7dmlpltnsc79u1qemage3vt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWzLxKr6n4N8tghlQ7lr1th_VWgLEOOqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953952687716-ajbmmvht7dmlpltnsc79u1qemage3vt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
